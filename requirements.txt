@@ -1,0 +1,15 @@
+pandas
+geopandas
+numpy
+jupyter
+geopy
+matplotlib
+shapely
+folium
+mapclassify
+contextily
+scikit-learn
+pysal
+requests
+bs4
+geopy
